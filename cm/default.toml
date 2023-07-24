@@ -1,0 +1,11 @@
+[cm.alias]
+"hw" = "echo 'Hello World!'"
+#alias = command
+[cm.script]
+myscript.label = "help script"
+#script name and runner
+myscript.runner = "/usr/bin/help {{args}}"
+#for runner, if you want to pass args directly to the command, use {{args}}
+[cm.misc]
+default = "true"
+
