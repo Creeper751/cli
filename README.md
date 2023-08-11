@@ -1,0 +1,2 @@
+#Binary
+Hello and welcome to my project! This is a simple project of mine for learning about cli's and binary numbers. To install this, run `pip install git+https://creeper751/cli.git` . To run it, use `binary` and use one of the two subcommands, `to-binary` and `to-decimal`. Provide corresponding numbers to translate to either binary or decimal.
